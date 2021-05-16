@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.429cdf44.chunk.css",
+    "main.js": "/static/js/main.b8f3d596.chunk.js",
+    "main.js.map": "/static/js/main.b8f3d596.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e41e758.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e41e758.js.map",
+    "static/js/2.8370828d.chunk.js": "/static/js/2.8370828d.chunk.js",
+    "static/js/2.8370828d.chunk.js.map": "/static/js/2.8370828d.chunk.js.map",
+    "static/js/3.4c3d4206.chunk.js": "/static/js/3.4c3d4206.chunk.js",
+    "static/js/3.4c3d4206.chunk.js.map": "/static/js/3.4c3d4206.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.429cdf44.chunk.css.map": "/static/css/main.429cdf44.chunk.css.map",
+    "static/js/2.8370828d.chunk.js.LICENSE.txt": "/static/js/2.8370828d.chunk.js.LICENSE.txt",
+    "static/media/Logo.7c2ff2cf.svg": "/static/media/Logo.7c2ff2cf.svg",
+    "static/media/App.scss": "/static/media/SourceSansPro_SemiBoldItalic.f035d6a1.woff2",
+    "static/media/basket-summary.scss": "/static/media/basket.f201a396.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e41e758.js",
+    "static/js/2.8370828d.chunk.js",
+    "static/css/main.429cdf44.chunk.css",
+    "static/js/main.b8f3d596.chunk.js"
+  ]
+}
